@@ -118,7 +118,7 @@ color:white;
 @media(max-width:768px){
 .nav-links{
  position:fixed;
- right:-100%;
+ right:0;
  top:0;
  width:70%;
  height:100vh;
